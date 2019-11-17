@@ -10,4 +10,5 @@
 2. JavaScript, Jquery,Ajax.<br>
 3. Mysql and PHP.<br>
 
+<img src="https://github.com/satyendra1997/TIME-PASS/blob/master/Time.png"/>
 
