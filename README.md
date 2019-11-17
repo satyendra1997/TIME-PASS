@@ -1,2 +1,13 @@
 # TIME-PASS
-Connect
+# This project PHP and mysql based and it is like a social media platform. It provide facility like - 
+1.You can post your thought and you can see and like others post.
+2. You can manage your profile.
+3. Searching of friends.
+4. Connect with other friends.
+
+# Used Technolgy-
+1.HTML,CSS,BOOTSTRAP
+2. JavaScript, Jquery,Ajax.
+3. Mysql and PHP.
+
+
